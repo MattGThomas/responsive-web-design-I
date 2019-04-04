@@ -270,7 +270,6 @@ footer {
 
 @media(max-width: 500px) {
     .container {
-        color: red;
         width: 500px;
         margin: 0 auto;
     }
