@@ -221,7 +221,7 @@ footer {
     .cta .cta-text {
         display: inline;
         text-align: center;
-        font-size: 72px;
+        font-size: 5rem;
     }
     .cta img {
         display:none;
