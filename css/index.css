@@ -326,6 +326,7 @@ footer {
 
    }
    .main-content .top-content {
+      width: 100%;
        display: block;
        padding-top: 5%;
        padding-left: 0;
