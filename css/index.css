@@ -341,13 +341,13 @@ footer {
    .main-content .bottom-content .text-content{
        display: inline-block;
        width: 98%;
-       padding: 0;
+       padding: 25px 0;
        margin: 0;
    }
    .contact {
        display: block;
        width: 98%;
-       padding:5% 1% 0;
-       margin-left: 4%;
+       /* padding:5% 1% 0;
+       margin-left: 4%; */
    }
 }
